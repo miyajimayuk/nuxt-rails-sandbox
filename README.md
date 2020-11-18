@@ -1,0 +1,1 @@
+## Nuxt and Ruby on Rails Sandbox
